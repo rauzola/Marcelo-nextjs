@@ -55,9 +55,7 @@ export default function Home() {
               <img src="./images/pic01.jpg" alt="" />
             </span>
           </div>
-          <a href="#two" className="goto-next scrolly">
-            Next
-          </a>
+          
         </section>
 
         {/* <!-- One --> */}
@@ -82,9 +80,7 @@ export default function Home() {
               assim, custos em até 15% e aumento da produtividade em até 40%.
             </p>
           </div>
-          <a href="#three" className="goto-next scrolly">
-            Next
-          </a>
+          
         </section>
 
         {/* <!-- Three --> */}
@@ -106,9 +102,7 @@ export default function Home() {
               sua proteção.
             </p>
           </div>
-          <a href="#four" className="goto-next scrolly">
-            Next
-          </a>
+          
         </section>
 
         {/* <!-- Four --> */}
